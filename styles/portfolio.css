@@ -1,0 +1,29 @@
+/* header related styles */
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+.banner {
+    padding: 10px 240px 147px 240px;
+    display: flex;
+    align-items: center;
+}
+
+.btn-primary {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFF;
+}
+
+.banner .profile-pic {
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}
