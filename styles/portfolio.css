@@ -1,12 +1,16 @@
 /* header related styles */
 .header {
     background-color: rgba(229, 84, 115, 0.10);
+
 }
 
 .banner {
-    padding: 10px 240px 147px 240px;
+    padding: 10px 240px 0px 240px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+
+
 }
 
 .btn-primary {
@@ -26,4 +30,19 @@
     width: 635px;
     height: 800px;
     flex-shrink: 0;
+}
+
+.banner-content {
+    width: 634px;
+}
+
+.banner-title {
+    width: 708px;
+    font-size: 80px;
+    margin-bottom: 32px;
+}
+
+.banner-content {
+    margin-top: 32px;
+    margin-bottom: 32px;
 }
