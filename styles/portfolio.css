@@ -46,3 +46,28 @@
     margin-top: 32px;
     margin-bottom: 32px;
 }
+
+/* main section styles */
+
+
+
+/* Our Featured section styles */
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+#ido-what-description{
+    padding: 15px 770px;
+}
