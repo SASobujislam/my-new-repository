@@ -195,3 +195,47 @@
     line-height: 30px;
     margin-top: 24px;
 }
+
+/* my soste secsion */
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.my-smole {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.my-btn {
+    display: flex;
+}
+
+#my-name {
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.my-lost-section {
+    width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: url(<path-to-image>), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    margin-left: 240px;
+    margin-right: 240px;
+    background-image: url("../imeg/Rectangle\ 9.png");
+    
+  
+
+}
