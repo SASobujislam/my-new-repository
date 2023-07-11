@@ -82,11 +82,8 @@
     margin-left: 240px;
     margin-right: 240px;
     gap: 24px;
-    flex-shrink: 0;
-    width: 464px;
-    height: 538px;
-    flex-shrink: 0;
-
+    margin-bottom: 5px;
+   
 
 }
 
@@ -106,11 +103,20 @@
 
 .skill-for-to {
     width: 310px;
-    height: 428px;
+    height: 470px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 }
 
 .Featured {
     
+}
+.folwers-title{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-top: 5px;
+    margin-bottom: 130px;
+    text-decoration: underline;
 }
