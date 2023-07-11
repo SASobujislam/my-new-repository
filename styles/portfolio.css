@@ -227,15 +227,16 @@
 }
 
 .my-lost-section {
-    width: 1440px;
-    height: 449px;
+    padding: 120px 240px 120px 240px;
+  
     flex-shrink: 0;
     border-radius: 8px;
     background: url(<path-to-image>), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    background-image: url("../imeg/Rectangle\ 9.png");
+    background-repeat: no-repeat;
     margin-left: 240px;
     margin-right: 240px;
-    background-image: url("../imeg/Rectangle\ 9.png");
-    
+
   
 
 }
