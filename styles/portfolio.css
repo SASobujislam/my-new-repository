@@ -130,7 +130,17 @@
 }
 
 .banner-for {
-    padding: 230px 430px 100px 390px;
+    padding: 230px 430px 150px 390px;
+    display: flex;
+   
+}
+
+.profile-fot {
+    width: 318px;
+    height: 320px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    
 }
 
 
